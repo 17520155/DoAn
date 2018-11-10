@@ -37,7 +37,7 @@
             this.panel1.ForeColor = System.Drawing.SystemColors.Desktop;
             this.panel1.Location = new System.Drawing.Point(193, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(419, 426);
+            this.panel1.Size = new System.Drawing.Size(459, 426);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
